@@ -14,3 +14,11 @@ The main features include:
 •	Navigation buttons to go forward 
 •	A reset button to restart the flashcard session
 I used Kotlin to write the code and developed the app using Android Studio.
+
+
+GitHub Link:
+https://github.com/ST10487772/IMAD5112Assignment-2
+
+YouTube Link:
+https://www.youtube.com/shorts/HlhxNGs_bww
+
